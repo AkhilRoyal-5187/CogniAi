@@ -1,0 +1,10 @@
+*{
+    font-family: sans-serif;
+}
+
+
+
+  .nav-btn.selected {
+    background-color: #f46800;
+  }
+
